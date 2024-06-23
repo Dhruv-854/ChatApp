@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741384408718",
+    "project_id": "chatapp-7b37a",
+    "storage_bucket": "chatapp-7b37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741384408718:android:c441d5257abbb5822e43df",
+        "android_client_info": {
+          "package_name": "com.dhruv.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GkpS3PCTpea1Hx4HLMUAVoU99hxMq8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
